@@ -60,7 +60,7 @@ Contact us for access and purchase:
 
 - Telegram Server: https://t.me/readymadesource
 - Discord: hesues
-- Telegram : t.me/hesuse
+- Telegram : https://t.me/hesuse
 
 Note: The website may receive updates over time, so the images shown above might not exactly reflect the most current design or features. Please visit https://t.me/readymadesource to view the live version for the latest look and functionality.
 
