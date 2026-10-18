@@ -2,7 +2,8 @@
 
 Introducing Blixbet, your premade online casino template featuring Crypto, Memecoin Casino, CS:GO, Growtopia, and Roblox themes. Start your online casino journey with our comprehensive package of games and features, perfect for launching your own online casino platform.
 
-Website: https://t.me/readymadesource
+Website: https://damnshop.online
+---
 Demo Video: https://www.youtube.com/watch?v=pXzqixm4ShQ&t=476s
 ---
 ## Additional Information
