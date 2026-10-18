@@ -1,3 +1,4 @@
+<img width="114" height="38" alt="blixbetlogo" src="https://github.com/user-attachments/assets/c926e4e1-b281-4222-bb50-c47df3eb29f0" />
 # Blixbet - #1 Ready-made Online Casino Solution
 
 Introducing Blixbet, your premade online casino template featuring Crypto, Memecoin Casino, CS:GO, Growtopia, and Roblox themes. Start your online casino journey with our comprehensive package of games and features, perfect for launching your own online casino platform.
